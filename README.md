@@ -1,6 +1,7 @@
 # Data Analyst Job Scraper
 
-<img width="621" height="761" alt="image" src="https://github.com/user-attachments/assets/df427824-d9d8-4be0-97b7-84d9b3a20ba5" />
+<img width="381" height="573" alt="image" src="https://github.com/user-attachments/assets/a61152bd-e993-4b92-8287-4c6fdd4a3505" />
+
 
 
 This Python script scrapes job listings for data analyst positions using the SERP API (SerpApi). It searches Google Jobs and saves the results in CSV and/or JSON format.
